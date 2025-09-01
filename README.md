@@ -38,6 +38,14 @@ I realize this falls short of the complete solution and I deeply regret not bein
 - Chosen here for simplicity after I faced blockers implementing backend
 
 ---
+## Screenshots
+
+Home Screen:  
+![Home](screenshots/home.png)
+
+Photo Picker:  
+![Picker](screenshots/picker.png)
+
 
 ## 📦 Installation
 ```sh
