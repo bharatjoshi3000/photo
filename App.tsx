@@ -83,7 +83,7 @@ const App = () => {
         onChangeText={setCaption}
       />
 
-      <Button title="Pick Image" onPress={pickImage} />
+      <Button title="Upload Image" onPress={pickImage} />
 
       <FlatList
         data={photos}
