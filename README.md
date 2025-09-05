@@ -4,13 +4,6 @@ A simple React Native app built with TypeScript that lets you pick photos from y
 
 ---
 
-## 🙏 Apology  
-I want to sincerely apologize that this submission does not fully meet the original requirements. The task asked for offline support along with a sync mechanism and a minimal server, but I was unable to complete those parts.  
-
-I did attempt using SQLite and explored ways to build the server and sync logic, but without prior backend experience I couldn’t get it working in time. To still demonstrate my effort and understanding of React Native, I built this simplified offline-only version using AsyncStorage within one hour.  
-
-I realize this falls short of the complete solution and I deeply regret not being able to deliver everything as expected.  
-
 ---
 
 ## 🚀 What I Implemented
